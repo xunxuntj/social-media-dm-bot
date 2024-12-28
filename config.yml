@@ -1,0 +1,20 @@
+# Device Configuration
+device:
+  serial: null  # Will be auto-detected if not specified
+
+# App Package Names
+apps:
+  xiaohongshu: com.xingin.xhs
+  kuaishou: com.kuaishou.nebula
+  douyin: com.ss.android.ugc.aweme
+  bilibili: tv.danmaku.bili
+
+# Message Templates
+message_templates:
+  default: "你好！"
+
+# Timing Configuration
+delay:
+  between_actions: 2  # seconds
+  between_messages: 5  # seconds
+  random_offset: 1.5  # seconds

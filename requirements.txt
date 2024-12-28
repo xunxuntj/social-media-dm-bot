@@ -1,0 +1,5 @@
+pure-python-adb>=0.3.0.dev0
+python-dotenv>=0.19.0
+loguru>=0.5.3
+Pillow>=8.3.1
+PyYAML>=5.4.1
